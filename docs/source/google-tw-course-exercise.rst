@@ -5,7 +5,7 @@ TW1-Exercise 3
 ----------------
 
 
-**NOTE**
+.. **NOTE** ::
 
  * This page provides possible answers to some in-class exercises of [Google Technical Writing Course].
  * The anwers here are only for personal reference, not for commercial use.
