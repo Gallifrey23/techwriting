@@ -7,8 +7,8 @@ TW1-Exercise 3
 
 .. NOTE::
 
-  *This page provides possible answers to some in-class exercises of Google Technical Writing Course.  
-  *The anwers here are only for personal reference, not for commercial use.
+   - This page provides possible answers to some in-class exercises of Google Technical Writing Course.  
+   - The anwers here are only for personal reference, not for commercial use.
 
 
 Jane and David are similar to you. They are about the same age as you and have about the same educational level and work experience as you. However, Jane and David differ from you in one very important way:
