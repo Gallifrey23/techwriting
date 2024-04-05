@@ -87,7 +87,7 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 
  `A revised diagram for reference <https://github.com/Gallifrey23/gallifrey23.github.io/blob/9992db8ffc9409e25d8bbdd0b85a51d059e89827/assets/images/Copy_of_Exercise2_Good_Diagram-DNS.svg>`_
 
-
+.. image:: Copy_of_Exercise2_Good_Diagram-DNS.svg
 
 
 **TW2-Exercise 3**
