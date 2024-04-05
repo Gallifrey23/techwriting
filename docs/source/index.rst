@@ -15,6 +15,6 @@ Contents
 .. toctree::
 
    google-tw-course-exercise
-   api
+   other
 
 
