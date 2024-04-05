@@ -109,5 +109,6 @@ The top of a thumbtack is usually made of metal and in flat, circular shape. It 
 
 **2. A Short Sharp Pin**
 
+
 The short sharp pin on a thumbtack is pointed at one end, with the other end adhere to the flat round top. The pin is similar to a needle, except that it doesn't have a hole on the top.
 
