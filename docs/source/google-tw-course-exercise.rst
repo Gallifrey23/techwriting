@@ -7,7 +7,8 @@ TW1-Exercise 3
 
 .. NOTE::
 
-   This page provides possible answers to some in-class exercises of [Google Technical Writing Course].
+   This page provides possible answers to some in-class exercises of Google Technical Writing Course.
+
    The anwers here are only for personal reference, not for commercial use.
 
 
@@ -17,5 +18,5 @@ In fact, Jane and David have never seen brushes or tubes of any kind.
 
 **Write instructions telling Jane or David how to get toothpaste on a toothbrush.**
 
-See possible `instructions<https://github.com/Gallifrey23/gallifrey23.github.io/blob/a14fe8690d25bfe5b39c3811ce1516d41f65ac38/assets/TW1-Exercise3.pdf>`_ in pdf format
+See possible `instructions <https://github.com/Gallifrey23/gallifrey23.github.io/blob/a14fe8690d25bfe5b39c3811ce1516d41f65ac38/assets/TW1-Exercise3.pdf>`_ in pdf format
 
