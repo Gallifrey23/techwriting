@@ -18,7 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
+   Google TW Course Exercise
    api
 
-Lumache has its documentation hosted on Read the Docs.
+
